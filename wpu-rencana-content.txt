@@ -1,6 +1,8 @@
 Rencana Konten WPU
 
 -Javascript
+ *ES6
+ *fadasdsadw
 -Php framework
 -hebat
 -mantap
